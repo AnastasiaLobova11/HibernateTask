@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<invoice>
+    <orderID>1</orderID>
+    <dateOfCreate>2022-06-13T14:16:28.178+03:00</dateOfCreate>
+    <amount>44751.39</amount>
+    <clientID>1234567</clientID>
+    <status>paid</status>
+    <items>
+        <id>1</id>
+        <cost>200.2</cost>
+        <count>2</count>
+        <amount>400.4</amount>
+        <name>bag</name>
+    </items>
+    <items>
+        <id>2</id>
+        <cost>40000.99</cost>
+        <count>1</count>
+        <amount>40000.99</amount>
+        <name>phone</name>
+    </items>
+    <items>
+        <id>3</id>
+        <cost>500</cost>
+        <count>4</count>
+        <amount>2000</amount>
+        <name>paper</name>
+    </items>
+    <items>
+        <id>4</id>
+        <cost>23.5</cost>
+        <count>100</count>
+        <amount>2350.0</amount>
+        <name>pen</name>
+    </items>
+</invoice>
